@@ -1,6 +1,6 @@
 # OlympicSphere2030
 
-[https://github.com/Shamsaayman/OlympicSphere/blob/main/FullLogo_Transparent.png]
+<img src = "https://github.com/Shamsaayman/OlympicSphere/blob/main/FullLogo_Transparent.png" width="700" height="250">
 
 
 ## Introduction:
@@ -21,7 +21,7 @@
 [https://github.com/Shamsaayman/OlympicSphere/blob/main/use%20case.drawio.png]
 
 ## Class Diagram :
-[]
+[https://github.com/Shamsaayman/OlympicSphere/blob/main/Class.png]
 
 ## My Endpoints :
 ### 1. Register Sport Admin with Security Authentication
@@ -46,10 +46,10 @@
 
 
 ## Figma :
-[Figma]: [https://www.figma.com/file/qA7fTza1TpOeWhaJLeEsjy/Final-Project?type=design&node-id=0%3A1&mode=design&t=0zaa7BVqtRZSXR39-1]
+[https://www.figma.com/file/qA7fTza1TpOeWhaJLeEsjy/Final-Project?type=design&node-id=0%3A1&mode=design&t=0zaa7BVqtRZSXR39-1]
 
 ## Presentation On Canva :
-[Presentation On Canva]: [https://www.canva.com/design/DAGEnz3FEGQ/A2WrpXbRACOjNSHIh9JI_Q/edit?utm_content=DAGEnz3FEGQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
+ [https://www.canva.com/design/DAGEnz3FEGQ/A2WrpXbRACOjNSHIh9JI_Q/edit?utm_content=DAGEnz3FEGQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
 
 ## Postman API Documentation :
-[Postman API Documentation]: [https://documenter.getpostman.com/view/29329177/2sA3JKc2NP]
+ [https://documenter.getpostman.com/view/29329177/2sA3JKc2NP]
