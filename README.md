@@ -24,8 +24,22 @@
 ## Class Diagram :
 <img src = "https://github.com/Shamsaayman/OlympicSphere/blob/main/Class.png" width="700" height="400">
 
+## Back-End Work:
+ ## I.SpringBoot Security
+### 1. Athlete 
+### 2. Sport
+### 3. Fan
+### 4. Team Admin
+### 5. Sport Admin
+### 6. Booking
+### 7. Ticket
 
-## My Endpoints :
+ ## II.My Models :
+### 1. Athlete 
+### 2. Sport
+### 3. Fan
+
+ ## III.My Endpoints :
 ### 1. Register Sport Admin with Security Authentication
 ### 2. Register Fan with Security Authentication
 ### 3. Set Athlete Rank - Team Admin Authority 
@@ -41,11 +55,9 @@
 ### 13. Delete Athlete - Team Admin Authority 
 ### 14. Get All Fans - Sport Admin Authority
 ### 15. Get Booking By Status - Fan Authority 
-### 16. CRUD :  Ahlete - Sport - Fan
-### 17. LOGIN : All Models
-### 18. LOGOUT : All Models 
-
-
+### 16. CRUD: Ahlete - Sport - Fan
+### 17. LOGIN: All Models
+### 18. LOGOUT: All Models 
 
 ## Figma :
 [https://www.figma.com/file/qA7fTza1TpOeWhaJLeEsjy/Final-Project?type=design&node-id=0%3A1&mode=design&t=0zaa7BVqtRZSXR39-1]
