@@ -1,6 +1,6 @@
 # OlympicSphere2030
 
-<img src = "https://github.com/Shamsaayman/OlympicSphere/blob/main/FullLogo_Transparent.png" width="700" height="250">
+<img src = "https://github.com/Shamsaayman/OlympicSphere/blob/main/FullLogo_Transparent.png" width="700" height="400">
 
 
 ## Introduction:
@@ -18,10 +18,12 @@
 
 
 ## UseCase Diagram :
-[https://github.com/Shamsaayman/OlympicSphere/blob/main/use%20case.drawio.png]
+
+<img src = "https://github.com/Shamsaayman/OlympicSphere/blob/main/use%20case.drawio.png" width="700" height="400">
 
 ## Class Diagram :
-[https://github.com/Shamsaayman/OlympicSphere/blob/main/Class.png]
+<img src = "https://github.com/Shamsaayman/OlympicSphere/blob/main/Class.png" width="700" height="400">
+
 
 ## My Endpoints :
 ### 1. Register Sport Admin with Security Authentication
